@@ -1,1 +1,3 @@
-Contenido del fichero A
+Contenido del fichero A modificado de new 
+
+Y otra y otra vez...
